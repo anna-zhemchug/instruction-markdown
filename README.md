@@ -13,3 +13,6 @@
 ## Рисунок
 ![alt text for image](Image.png)
 
+## Ссылка
+С полным справочником по Docs Markdown можно ознакомиться по ссылке: 
+[contributor guide index](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
