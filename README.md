@@ -16,3 +16,5 @@
 ## Ссылка
 С полным справочником по Docs Markdown можно ознакомиться по ссылке: 
 [contributor guide index](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
+
+task1
