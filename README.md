@@ -18,3 +18,4 @@
 [contributor guide index](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
 task1
+task2
